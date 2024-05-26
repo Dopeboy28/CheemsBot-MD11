@@ -1,4 +1,4 @@
-//base by fanfantechni
+//base by fanfantechno
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @DGXeon
 //Instagram: dope.boy.286
