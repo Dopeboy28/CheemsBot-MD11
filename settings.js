@@ -1,11 +1,11 @@
-//base by DGXeon
+//base by fanfantechni
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @DGXeon
-//Instagram: unicorn_xeon13
+//Instagram: dope.boy.286
 //Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//GitHub: @dopeboy28
+//WhatsApp: +50937872734
+//want more free bot scripts? subscribe to my instagramm: https://www.instagram.com/dope.boy.286?igsh=MW8zdDZpOG1ybXdkeA==
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.igname = "IG: dope.boy.286" //ur ig channel name dope.boy.286
+global.socialm = "GitHub: DGXeon" //ur github or insta name dopeboy28
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
+global.botname = 'fanfantechno' //ur bot name
+global.ownernumber = '50937872734' //ur owner number
+global.ownername = 'Fanfan Florient' //ur owner name
+global.websitex = "https://www.instagram.com/dope.boy.286?igsh=MW8zdDZpOG1ybXdkeA=="
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.packname = "fanfantechno"
+global.author = "fanfantechno\n\n+50937872734"
+global.creator = "50937872734@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["50937872734"] // Premium User
 global.hituet = 0
 
 //bot sett
